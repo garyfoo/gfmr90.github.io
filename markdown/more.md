@@ -1,3 +1,3 @@
 ## Wanna see more?
 
-Check out my [presentation hub](http://thorstenhans.github.io) for more presentations.
+Check out my [presentation hub](http://gfmr90.github.io) for more presentations.
