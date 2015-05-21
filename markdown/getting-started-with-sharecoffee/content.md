@@ -54,6 +54,12 @@ With all those ideas I sat down and started coding.
     $s.REST.build.read.f.angularJS()
     $s.REST.build.read.f.jQuery()
     $s.REST.build.read.f.reqwest()
+    
+    // or
+    
+    $s.REST.build.read.f.angularJS()
+    $s.REST.build.read.f.jQuery()
+    $s.REST.build.read.f.reqwest()
 ````
 
 
