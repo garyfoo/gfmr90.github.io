@@ -1,6 +1,6 @@
 ## Hello, my name is Gary Foo
 
-![That's me](/images/me2.jpg)
+![That's me](/images/me2.png)
 
  * Web Developer
  * Microsoft MVP since 2011
