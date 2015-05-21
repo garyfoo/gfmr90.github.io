@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db38710e-dfa4-4554-8850-8c157aa639a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" afterPath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.md" afterPath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" afterPath="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gfmr90.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +61,8 @@
       <file leaf-file-name="presentation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5822783">
-              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state vertical-scroll-proportion="-8.177216">
+              <caret line="42" column="92" selection-start-line="42" selection-start-column="92" selection-end-line="42" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -93,27 +94,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/markdown/getting-started-with-sharecoffee/content.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.62963">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31843576">
+            <state vertical-scroll-proportion="-10.555555">
               <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landingpage.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="landingpage.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4074074">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.2122905">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -138,6 +152,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="github" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -153,11 +168,12 @@
         <option value="$PROJECT_DIR$/markdown/feedback.md" />
         <option value="$PROJECT_DIR$/markdown/more.md" />
         <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/title.md" />
-        <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.md" />
         <option value="$PROJECT_DIR$/markdown/about.md" />
         <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/about.md" />
-        <option value="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" />
         <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" />
+        <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.html" />
+        <option value="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" />
+        <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.md" />
       </list>
     </option>
   </component>
@@ -365,6 +381,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -641,28 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/getting-started-with-sharecoffee/content.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.851852">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/feedback.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4074074">
-          <caret line="2" column="160" selection-start-line="2" selection-start-column="160" selection-end-line="2" selection-end-column="160" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/presentations/getting-started-with-sharecoffee/presentation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.071428">
@@ -701,6 +696,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/feedback.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4074074">
+          <caret line="2" column="160" selection-start-line="2" selection-start-column="160" selection-end-line="2" selection-end-column="160" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.177216">
+          <caret line="42" column="92" selection-start-line="42" selection-start-column="92" selection-end-line="42" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.555555">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/getting-started-with-sharecoffee/content.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.62963">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/markdown/uq-infs3202-web-development/about.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -717,27 +753,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4074074">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5822783">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31843576">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.2122905">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
