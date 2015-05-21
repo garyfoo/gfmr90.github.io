@@ -1,6 +1,6 @@
-## Hi, my name is Thorsten Hans
+## Hello, my name is Gary Foo
 
-![That's me](/images/me.jpg)
+![That's me](/images/me2.jpg)
 
  * Web Developer
  * Microsoft MVP since 2011

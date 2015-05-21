@@ -1,10 +1,9 @@
-## Thorsten's presentation Hub
+## Gary's presentation Hub
 
 
 Welcome to my presentation hub.
 
 Choose one of those presentations that you'd like to view.
 
- * [Getting started with ShareCoffee](/presentations/getting-started-with-sharecoffee/presentation.html)
- * [presDev](/presentations/presdev/presentation.html)
+ * [UQ INFS3202 Web Development](/presentations/uq-infs3202-web-development/presentation.html)
 <!--#{link}-->
