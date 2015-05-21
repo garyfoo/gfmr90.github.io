@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db38710e-dfa4-4554-8850-8c157aa639a9" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Garie\Documents\GitHub\gfmr90.github.io\images\me2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" afterPath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" afterPath="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" />
     </list>
     <ignored path="gfmr90.github.io.iws" />
@@ -60,9 +60,11 @@
       <file leaf-file-name="presentation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29300117">
-              <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
-              <folding />
+            <state vertical-scroll-proportion="0.9549229">
+              <caret line="250" column="157" selection-start-line="250" selection-start-column="157" selection-end-line="250" selection-end-column="157" />
+              <folding>
+                <element signature="n#style#0;n#code#0;n#pre#0;n#stdio.h#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,8 +101,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-31.74074">
-              <caret line="199" column="141" selection-start-line="199" selection-start-column="141" selection-end-line="199" selection-end-column="141" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -728,17 +730,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.74074">
-          <caret line="199" column="141" selection-start-line="199" selection-start-column="141" selection-end-line="199" selection-end-column="141" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29300117">
-          <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
-          <folding />
+        <state vertical-scroll-proportion="0.9549229">
+          <caret line="250" column="157" selection-start-line="250" selection-start-column="157" selection-end-line="250" selection-end-column="157" />
+          <folding>
+            <element signature="n#style#0;n#code#0;n#pre#0;n#stdio.h#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
