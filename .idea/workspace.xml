@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db38710e-dfa4-4554-8850-8c157aa639a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/about.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.md" />
-      <change type="DELETED" beforePath="C:\Users\Garie\Documents\GitHub\gfmr90.github.io\images\me.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Garie\Documents\GitHub\gfmr90.github.io\images\me2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Garie\Documents\GitHub\gfmr90.github.io\markdown\uq-infs3202-web-development\title.md" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Garie\Documents\GitHub\gfmr90.github.io\images\me2.png" afterPath="$PROJECT_DIR$/images/me.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/about.md" afterPath="$PROJECT_DIR$/markdown/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" afterPath="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/feedback.md" afterPath="$PROJECT_DIR$/markdown/feedback.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/more.md" afterPath="$PROJECT_DIR$/markdown/more.md" />
+      <change type="DELETED" beforePath="C:\Users\Garie\Documents\GitHub\gfmr90.github.io\images\me2.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" afterPath="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gfmr90.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="presentation.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="presentation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.936709">
-              <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.29300117">
+              <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -103,13 +93,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9575419">
+            <state vertical-scroll-proportion="-31.74074">
               <caret line="199" column="141" selection-start-line="199" selection-start-column="141" selection-end-line="199" selection-end-column="141" />
               <folding />
             </state>
@@ -164,10 +154,10 @@
         <option value="$PROJECT_DIR$/markdown/more.md" />
         <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/title.md" />
         <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/landingpage.md" />
-        <option value="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" />
         <option value="$PROJECT_DIR$/markdown/about.md" />
         <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/about.md" />
         <option value="$PROJECT_DIR$/markdown/uq-infs3202-web-development/content.md" />
+        <option value="$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html" />
       </list>
     </option>
   </component>
@@ -700,14 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.936709">
-          <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/markdown/about.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -746,8 +728,16 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9575419">
+        <state vertical-scroll-proportion="-31.74074">
           <caret line="199" column="141" selection-start-line="199" selection-start-column="141" selection-end-line="199" selection-end-column="141" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentations/uq-infs3202-web-development/presentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29300117">
+          <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
           <folding />
         </state>
       </provider>
