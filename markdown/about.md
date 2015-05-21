@@ -1,9 +1,9 @@
-## Gary Foo
+## About me
 
 ![That's me](/images/me.png)
 
- - Diploma in Media
- - Bachelor of Information Technology
- - UQ Graduate
- - Exploring lots of different technologies in web development
- - Doing small web development projects
+<p class="fragment fade-in">UQ Graduate</p>
+
+<p class="fragment fade-in">Diploma in Media</p>
+
+<p class="fragment fade-in">Bachelor of Information Technology</p>

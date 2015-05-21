@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>UQINFS3202pres</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="/css/reveal.css">
+		<link rel="stylesheet" href="/css/theme/white.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="/lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/css/print/pdf.css' : '/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+    </section>
+		<div class="reveal">
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section data-markdown='/markdown/uqinfs3202pres/title.md'
+				data-separator='^\n\n\n'>
+				</section>
+
+				<section data-markdown='/markdown/about.md'
+				data-separator='^\n\n\n'>
+				</section>
+
+				<section>
+					<h2>What are we going to talk about today?</h2>
+				</section>
+				<section>
+					<h2>Topics</h2>
+					<ul>
+						<li>
+							<p class="fragment fade-in">Development Pains</p>
+						</li>
+						<li>
+							<p class="fragment fade-in">Web Application Frameworks</p>
+						</li>
+						<li>
+							<p class="fragment fade-in">Web Developer/Designer Tools</p>
+						</li>
+					</ul>
+				</section>
+				<section>
+					<section>
+						<h2>Development Pains</h2>
+					</section>
+					<section>
+						<p>Vanilla Javascript</p>
+						<section data-markdown>
+							<script type="text/template">
+								```javascript
+								function loadXMLDoc() {
+								var xmlhttp;
+
+								if (window.XMLHttpRequest) {
+								// code for IE7+, Firefox, Chrome, Opera, Safari
+								xmlhttp = new XMLHttpRequest();
+								} else {
+								// code for IE6, IE5
+								xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+								}
+
+								xmlhttp.onreadystatechange = function() {
+								if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+								if(xmlhttp.status == 200){
+								document.getElementById("myDiv").innerHTML = xmlhttp.responseText;
+								}
+								else if(xmlhttp.status == 400) {
+								alert('There was an error 400')
+								}
+								else {
+								alert('something else other than 200 was returned')
+								}
+								}
+								}
+
+								xmlhttp.open("GET", "ajax_info.txt", true);
+								xmlhttp.send();
+								}
+								```
+							</script>
+						</section>
+					</section>
+					<section>
+						<p>AJAX : JQUERY</p>
+						<section data-markdown>
+							<script type="text/template">
+								```javascript
+								$.ajax({
+								url: "test.html",
+								context: document.body,
+								success: function(){
+								$(this).addClass("done");
+								}
+								});
+								```
+							</script>
+						</section>
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h2>Web Application Frameworks</h2>
+					</section>
+					<section>
+						<h2>Benefits of Web Frameworks</h2>
+						<ul>
+							<li>
+								<p class="fragment fade-in">Help you write less code</p>
+							</li>
+							<li>
+								<p class="fragment fade-in">Comes with libraries that provide functionality out of the box</p>
+							</li>
+							<li>
+								<p class="fragment fade-in">
+									Loose Coupling: MVC frameworks will help you separate logic, user-interface and database from each other.
+									Eases development.
+								</p>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<img data-src="/images/angularJS.jpg">
+						<h2>Superheroic MVC Framework</h2>
+					</section>
+					<section>
+						<img data-src="/images/rails.jpg">
+						<h2>Ruby on Rails MVC Web Framework</h2>
+					</section>
+					<section>
+						<img data-src="/images/pd.png">
+						<h2>Django MVC Framework</h2>
+					</section>
+					<section>
+						<img data-src="/images/laravel.png">
+						<h2>Laravel MVC PHP Framework</h2>
+					</section>
+					<section>
+						<img data-src="/images/react.png">
+						<h2>Facebook's JS library creating User Interface</h2>
+					</section>
+					<section>
+						<img data-src="/images/meteor.png">
+						<h2>Database-everywhere, data-on-the-wire, pure-Javascript web framework</h2>
+					</section>
+					<section>
+						<img data-src="/images/spring.png">
+						<h2>Java MVC Application Framework</h2>
+					</section>
+					<section>
+						<img data-src="/images/msdotnetframework.jpg">
+						<h2>Microsoft .NET Framework</h2>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Web Developer/Designer Tools</h2>
+					</section>
+					<section>
+						<img data-src="/images/webstorm.gif">
+						<h2>WebStorm - Super Smart JavaScript IDE</h2>
+					</section>
+					<section>
+						<img data-src="/images/sublime.jpg">
+						<h2>The lovely editor that you'll dread looking at again and again</h2>
+					</section>
+				</section>
+				<section>
+					<h2><a href="https://foodsquaree.herokuapp.com/">FoodSquare</a></h2>
+					<p>
+						A FourSquare Clone Powered by AngularJS and FourSquare API
+					</p>
+				</section>
+				<section>
+					<h2>Thank You!</h2>
+				</section>
+			</div>
+
+		</div>
+
+		<script src="/lib/js/head.min.js"></script>
+		<script src="/js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				// Turns fragments on and off globally
+				fragments: true,
+				// Enable slide navigation via mouse wheel
+				mouseWheel: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: '/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '/plugin/zoom-js/zoom.js', async: true },
+					{ src: '/plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
