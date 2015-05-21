@@ -5,5 +5,6 @@ Welcome to my presentation hub.
 
 Choose one of those presentations that you'd like to view.
 
- * [UQ INFS3202 Presentation](/presentations/uqinfs3202pres/presentation.html)
+ * [Getting started with ShareCoffee](/presentations/getting-started-with-sharecoffee/presentation.html)
+ * [UQINFS3202pres](/presentations/uqinfs3202pres/presentation.html)
 <!--#{link}-->

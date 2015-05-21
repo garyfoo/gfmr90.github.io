@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db38710e-dfa4-4554-8850-8c157aa639a9" name="Default" comment="" />
+    <list default="true" id="db38710e-dfa4-4554-8850-8c157aa639a9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/hub.md" afterPath="$PROJECT_DIR$/markdown/hub.md" />
+    </list>
     <ignored path="gfmr90.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +50,7 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.14860335">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -167,11 +169,11 @@
         <option value="$PROJECT_DIR$/presentations/getting-started-with-sharecoffee/presentation.html" />
         <option value="$PROJECT_DIR$/markdown/uqinfs3202pres/content.md" />
         <option value="$PROJECT_DIR$/markdown/feedback.md" />
-        <option value="$PROJECT_DIR$/markdown/hub.md" />
         <option value="$PROJECT_DIR$/markdown/more.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/markdown/about.md" />
         <option value="$PROJECT_DIR$/presentations/uqinfs3202pres/presentation.html" />
+        <option value="$PROJECT_DIR$/markdown/hub.md" />
       </list>
     </option>
   </component>
@@ -764,7 +766,7 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14860335">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="104" />
           <folding />
         </state>
       </provider>
